@@ -1,0 +1,10 @@
+__pycache__/
+.vscode/
+weights/
+data/
+exp/
+fig/
+
+# remove notebooks and raw data to keep repo clean.
+*.ipynb
+*.csv
